@@ -1,16 +1,13 @@
-## Hi there 👋
+# 윤성용 | Sungyong Yun
 
-<!--
-**SY-20231230/SY-20231230** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI · Backend · BigData Developer
 
-Here are some ideas to get you started:
+기획부터 AI 모델링,
+백엔드 아키텍처,
+서비스 구현까지 직접 설계합니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Main Projects
+- DORO-SEE
+- AutoPlanAI v2
+- ZIPHYEONJEON v2
+- tomorrowMarket
