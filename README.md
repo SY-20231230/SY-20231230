@@ -32,6 +32,7 @@ Spring Boot, Django, FastAPI 기반 서비스 개발과 AI 기능 연동, Docker
 ![YOLO](https://img.shields.io/badge/YOLO-111F68?style=for-the-badge)
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 ### ⚙️ AI Service / Backend
 
