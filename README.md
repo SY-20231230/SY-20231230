@@ -76,6 +76,8 @@ Spring Boot, Django, FastAPI 기반 서비스 개발과 AI 기능 연동, Docker
 
 ## 🚗 DORO-SEE
 
+🔗 [GitHub Repository](https://github.com/SY-20231230/DORO-SEE)
+
 > **AI 기반 도로 위험요소 실시간 탐지 및 주행 안전 지원 플랫폼**
 
 첫 개발 프로젝트로 **Backend Developer**를 담당했습니다.
@@ -105,6 +107,8 @@ Node.js로 별도의 CRUD 웹서비스를 구현하며
 ---
 
 ## 🏠 집현전 (ZIPHYEONJEON)
+
+🔗 [GitHub Repository](https://github.com/SY-20231230/ZIPHYEONJEON)
 
 > **주거·상권 데이터를 활용한 부동산 분석 및 AI 예측 플랫폼**
 
@@ -138,6 +142,8 @@ KB부동산의 전세 관련 지표 등 외부 시장 데이터를 추가해 학
 
 ## 📈 내일장 (TomorrowMarket)
 
+🔗 [GitHub Repository](https://github.com/SY-20231230/tomorrowMarket)
+
 > **AI 주가 예측 및 예측 성능 분석 플랫폼**
 
 **Project Manager / Backend Developer / AI Engineer**로 참여했습니다.
@@ -169,6 +175,8 @@ LightGBM + Sentiment 결합 모델에서 `530.02`까지 개선했습니다.
 ---
 
 ## 🎓 UNI:VERSE
+
+🔗 [GitHub Repository](https://github.com/SY-20231230/UNI-VERSE)
 
 > **학교 인증 기반 익명 커뮤니티 + 교내 중고거래 플랫폼**
 
@@ -225,6 +233,8 @@ ECS Fargate 환경에서는 그대로 사용할 수 없었습니다.
 ---
 
 ## 🤖 AutoPlanAI
+
+🔗 [GitHub Repository](https://github.com/SY-20231230/AutoPlanAIv2)
 
 > **생성형 AI 기반 프로젝트 기획·분석 및 개발 자동화 플랫폼**
 
