@@ -76,6 +76,8 @@ Spring Boot, Django, FastAPI 기반 서비스 개발과 AI 기능 연동, Docker
 
 ## 🚗 DORO-SEE
 
+[![YouTube Video](https://img.youtube.com/vi/xJ-mfSS2iGM/maxresdefault.jpg)](https://www.youtube.com/watch?v=xJ-mfSS2iGM)
+
 🔗 [GitHub Repository](https://github.com/SY-20231230/DORO-SEE)
 
 > **AI 기반 도로 위험요소 실시간 탐지 및 주행 안전 지원 플랫폼**
@@ -176,6 +178,8 @@ LightGBM + Sentiment 결합 모델에서 `530.02`까지 개선했습니다.
 
 ## 🎓 UNI:VERSE
 
+[![YouTube Video](https://img.youtube.com/vi/tLLzq-dE2aU/maxresdefault.jpg)](https://www.youtube.com/watch?v=tLLzq-dE2aU&t=294s)
+
 🔗 [GitHub Repository](https://github.com/SY-20231230/UNI-VERSE)
 
 > **학교 인증 기반 익명 커뮤니티 + 교내 중고거래 플랫폼**
@@ -233,6 +237,8 @@ ECS Fargate 환경에서는 그대로 사용할 수 없었습니다.
 ---
 
 ## 🤖 AutoPlanAI
+
+[![YouTube Video](https://img.youtube.com/vi/v2r2Xmw58dU/maxresdefault.jpg)](https://www.youtube.com/watch?v=v2r2Xmw58dU)
 
 🔗 [GitHub Repository](https://github.com/SY-20231230/AutoPlanAIv2)
 
