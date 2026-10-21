@@ -78,7 +78,8 @@ Spring Boot, Django, FastAPI 기반 서비스 개발과 AI 기능 연동, Docker
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=xJ-mfSS2iGM" target="_blank">
-    <img src="https://vumbnail.com/xJ-mfSS2iGM.jpg" width="480" alt="Doro-SEE Demo" />
+    <img src="https://vumbnail.com/xJ-mfSS2iGM.jpg" width="500" alt="Doro-SEE 시연 영상" /><br>
+    <sub>🎬 <b>이미지를 클릭하면 유튜브 시연 영상으로 이동합니다</b></sub>
   </a>
 </p>
 
