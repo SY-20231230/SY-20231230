@@ -149,6 +149,13 @@ KB부동산의 전세 관련 지표 등 외부 시장 데이터를 추가해 학
 
 ## 📈 내일장 (TomorrowMarket)
 
+<p align="center">
+  <a href="https://youtu.be/Q0OXEtNAHGE" target="_blank">
+    <img src="https://vumbnail.com/Q0OXEtNAHGE.jpg" width="500" alt="내일장 시연 영상" /><br>
+    <sub>🎬 <b>이미지를 클릭하면 유튜브 시연 영상으로 이동합니다</b></sub>
+  </a>
+</p>
+
 🔗 [GitHub Repository](https://github.com/SY-20231230/tomorrowMarket)
 
 > **AI 주가 예측 및 예측 성능 분석 플랫폼**
