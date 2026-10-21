@@ -183,7 +183,12 @@ LightGBM + Sentiment 결합 모델에서 `530.02`까지 개선했습니다.
 
 ## 🎓 UNI:VERSE
 
-[![YouTube Video](https://img.youtube.com/vi/tLLzq-dE2aU/maxresdefault.jpg)](https://www.youtube.com/watch?v=tLLzq-dE2aU&t=294s)
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=tLLzq-dE2aU&t=294s" target="_blank">
+    <img src="https://vumbnail.com/tLLzq-dE2aU.jpg" width="500" alt="UNI:VERSE 시연 영상" /><br>
+    <sub>🎬 <b>이미지를 클릭하면 유튜브 시연 영상으로 이동합니다</b></sub>
+  </a>
+</p>
 
 🔗 [GitHub Repository](https://github.com/SY-20231230/UNI-VERSE)
 
@@ -243,7 +248,12 @@ ECS Fargate 환경에서는 그대로 사용할 수 없었습니다.
 
 ## 🤖 AutoPlanAI
 
-[![YouTube Video](https://img.youtube.com/vi/v2r2Xmw58dU/maxresdefault.jpg)](https://www.youtube.com/watch?v=v2r2Xmw58dU)
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=v2r2Xmw58dU" target="_blank">
+    <img src="https://vumbnail.com/v2r2Xmw58dU.jpg" width="500" alt="AutoPlanAI 시연 영상" /><br>
+    <sub>🎬 <b>이미지를 클릭하면 유튜브 시연 영상으로 이동합니다</b></sub>
+  </a>
+</p>
 
 🔗 [GitHub Repository](https://github.com/SY-20231230/AutoPlanAIv2)
 
